@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Waner 👋
 
-<!--
-**bywaner/bywaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a doctoral scholar at the University of Sydney, researching how project management practices influence the sustainability and scalability of public health programs.
 
-Here are some ideas to get you started:
+My work explores systems thinking, stakeholder coordination, and long-term impact in health, social, and volunteer-based initiatives. This space is where I quietly build — slow insights, light data work, and project reflections.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Areas of Interest
+- Project governance and delivery in public health
+- Volunteer program systems and participation trends
+- SDGs, sustainability, and evaluation
+- Research methods and literature synthesis
+- Python, Notion, GitHub for thought structure and learning
+
+📍 You can also find me on [LinkedIn](https://www.linkedin.com/in/...)  
+🧭 More to come as I continue building here.
+
+---
+_"Small projects. Quiet impact. Slow knowledge."_ 
